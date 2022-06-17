@@ -7,7 +7,7 @@
   "component" : "slider",
   "targetAttribute": "_slider",
   "displayName" : "Slider",
-  "description": "A question component that allows the learner to position a slider on scale",
+  "description": "Un componente de pregunta que permite al alumno colocar un control deslizante en la escala",
   "main": "/js/adapt-contrib-slider.js",
   "keywords": [
     "adapt-plugin",
